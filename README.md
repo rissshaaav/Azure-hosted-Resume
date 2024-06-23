@@ -6,5 +6,3 @@ Resume hosted on Azure
 - Frontend folder contains the website
 - main.js contains visitor counter code
 - (gotta change profile image Aspect ratio)
-
-
